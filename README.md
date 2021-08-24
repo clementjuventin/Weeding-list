@@ -1,4 +1,4 @@
-# Javascript-ElectronJs-TwitchOverlay
+# Liste d'emménagement
 
 ## Intro
 J'emménage bientôt dans mon nouvel appartement pour mes études et j'ai crée une plateforme pour indiquer à mes proches quels objets ils peuvent m'offrir.
