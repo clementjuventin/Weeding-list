@@ -27,6 +27,7 @@ HOST pour votre hébergeur, DB_NAME pour le nom de la base de données, DB_LOGIN
 ## Installation
 
 - Configurer le env.php
+- Dans le dossier doc se trouve la structure de la base de données, à compléter selon vos envies. Si quelqu'un pouvait faire un convertisseur csv to mySql pour la table objet ce serait pratique. 
 - Télécharger les autres fichiers dans un serveur apache.
 
 ## Software screenshots
